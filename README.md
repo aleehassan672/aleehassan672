@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleehassan672
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently Working as Webd Developer at PITB
+- 🌱 I’m currently Working as Web Developer at PITB
 - 📫 How to reach me aliwasi672@gmail.com
 
 <!---
